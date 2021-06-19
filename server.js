@@ -41,7 +41,7 @@ app.use(cors())
 
 // db
 // const connection_url = "mongodb+srv://admin:fL9fMCP4hVMVaT31@cluster0.s70do.mongodb.net/whatsappdb?retryWrites=true&w=majority"
-const connection_url = "mongodb://uf1qexvj0kajmsfoohup:jvAUalPeizHlFXMEwJ3O@bgzp7acsk8psbxo-mongodb.services.clever-cloud.com:27017/bgzp7acsk8psbxo"
+const connection_url = "mongodb://uqdlksrekslvn1wifv06:WzCNkY1c5qZ8RZTkl7OW@bj49b713scyy3mm-mongodb.services.clever-cloud.com:27017/bj49b713scyy3mm"
 
  mongoose.connect(connection_url,{
     useNewUrlParser: true,
